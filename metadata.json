@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A highly accurate and intelligent frontend-only weather app featuring public Open-Meteo integration, 7-day forecast mapping, and a smart local recommendation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
